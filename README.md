@@ -11,7 +11,7 @@ Per l'installazione del server eseguire i seguenti passaggi:
    
     ``` 
     git clone https://github.com/labGISS/gal_server.git
-    cd Gal-Server
+    cd Gal_Server
     ```
 
 2. Creare un virtual env e attivarlo
@@ -34,7 +34,7 @@ Per l'installazione del server eseguire i seguenti passaggi:
 
     ```
     pip install flask-cors 
-    pip install -r requirements.txt
+    pip install -r requirements-install.txt
     ```
 
 5. Avviare l'installazione
