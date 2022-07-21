@@ -11,7 +11,7 @@ Per l'installazione del server eseguire i seguenti passaggi:
    
     ``` 
     git clone https://github.com/labGISS/gal_server.git
-    cd gal-server
+    cd Gal-Server
     ```
 
 2. Creare un virtual env e attivarlo
